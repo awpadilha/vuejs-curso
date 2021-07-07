@@ -1,5 +1,5 @@
 <h1 align="center">
-    Curso Web Moderno Completo com JavaScript 2020 + Projetos  <br>
+    Curso Vue JS  <br>
     
 </h1>
 
@@ -11,10 +11,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## :computer: Projeto
 
-Desenvolvimento dos das atividades e exemplos das aulas para melhor compreensão e entendimento do Curso Web Moderno Completo com JavaScript 2020 + Projetos da empresa Cod3r Cursos Online, disponível na plataforma Udemy.
+Desenvolvimento dos das atividades e exemplos das aulas para melhor compreensão e entendimento do curso
 
-Fundamentos Javascript: OK
-Estruturas de Controle: Em andamento
-Conceitos sobre Web: Em andamento
-
-https://www.udemy.com/course/curso-web/
+https://www.youtube.com/watch?v=Rz7D51uU_gY&list=PLWNaqtzH6CWR-dykXeDD5XmMzJur9JBIh
